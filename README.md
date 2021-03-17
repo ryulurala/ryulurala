@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <!-->
+
+- [SSU_RPG](https://ryulurala.github.io/ssu-open-world/release/)
