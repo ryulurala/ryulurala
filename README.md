@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 <!-->
 
-- [SSU_RPG](https://ryulurala.github.io/it-is-me/release/)
+- [지금 만들고 있는 게임](https://ryulurala.github.io/it-is-me/release/)
