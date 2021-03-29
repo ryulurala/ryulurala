@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 <!-->
 
-- [SSU_RPG](https://ryulurala.github.io/ssu-open-world/release/)
+- [SSU_RPG](https://ryulurala.github.io/it-is-me/release/)
