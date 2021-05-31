@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 <!-->
 
-- [지금 만들고 있는 게임](https://ryulurala.github.io/human-or-not/release/)
+- [지금 만들고 있는 게임(Mobile/PC 가능)](https://ryulurala.github.io/human-or-not/release/)
